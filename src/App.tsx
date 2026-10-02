@@ -16,7 +16,7 @@ function App() {
 
       <main className="container mx-auto px-4 py-8">
         <div className="text-center space-y-4">
-          <h2 className="text-4xl font-bold">Challenge 8 - Movie App</h2>
+          <h2 className="text-4xl font-bold">Challenge 6 - Movie App</h2>
           <p className="text-muted-foreground">
             Mulai dengan membaca README.md untuk instruksi lengkap!
           </p>

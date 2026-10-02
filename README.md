@@ -1,6 +1,6 @@
-# Challenge 8 - Movie Explorer App
+# Challenge 6 - Movie Explorer App
 
-Selamat datang di Challenge 8! Di assignment ini, kalian akan membangun sebuah aplikasi web Movie Explorer menggunakan React, TypeScript, dan berbagai modern tools yang sering digunakan di industri.
+Selamat datang di Challenge 6! Di assignment ini, kalian akan membangun sebuah aplikasi web Movie Explorer menggunakan React, TypeScript, dan berbagai modern tools yang sering digunakan di industri.
 
 ## Deskripsi Project
 
@@ -228,7 +228,7 @@ Good luck dan have fun coding! 🚀
 
 Halo semuanya!
 
-Saya Henry Rivardo, dan saya sangat excited melihat kalian mengerjakan Challenge 8 ini. Assignment ini memang challenging, tapi saya percaya kalian semua mampu menyelesaikannya dengan baik.
+Saya Henry Rivardo, dan saya sangat excited melihat kalian mengerjakan Challenge 6 ini. Assignment ini memang challenging, tapi saya percaya kalian semua mampu menyelesaikannya dengan baik.
 
 Beberapa hal yang ingin saya sampaikan:
 
